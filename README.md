@@ -1,20 +1,37 @@
-AI for Beginners – Course Work
-This repository contains my learning work completed during the AI for Beginners course. The focus of this course was to understand the basic concepts and foundations of Artificial Intelligence.
+# Certifications
 
-Overview
-This course provided an introduction to Artificial Intelligence and helped build a clear understanding of how AI works at a basic level. It covered fundamental ideas and concepts without going into advanced technical implementations.
+This repository holds the certificates I have earned from online courses and training programs. I keep them here in one place so that anyone who wants to see what I have studied can find it easily.
 
-Key Learnings
-- Basic understanding of Artificial Intelligence
-- How AI is used in real-world applications
-- Introduction to machine learning concepts at a conceptual level
-- Understanding data and how AI systems learn from it
-- Awareness of different types of AI systems
+## My certificates
 
-Purpose
-The purpose of this repository is to document my learning journey and demonstrate my understanding of the foundational concepts of Artificial Intelligence.
+### AI and Career Empowerment
 
-Written BY:
-Ramsha Arooj  
-BSIT Student
-This repository is created for learning and educational purposes only.
+A non-credit course offered through the University of Maryland Robert H. Smith School of Business, completed in October 2025.
+
+**Why I took it.** My information security teacher advised us to take AI courses, and this was one of the first I chose.
+
+**What I learned.** It introduced me to how artificial intelligence is changing careers and the skills people need to stay ahead.
+
+### AI for Beginners
+
+An online course by HP LIFE, part of the HP Foundation, completed in October 2025.
+
+**Why I took it.** I wanted to build a solid base in AI before going deeper, and this course was a good place to start.
+
+**What I learned.** I gained a basic understanding of what AI is, why data matters for it, how businesses use it and what ethical questions come with it.
+
+### 1.5 Month AI Social Media Marketing Course
+
+A training program by NDA Digital Skills, completed in 2026.
+
+**Why I took it.** I have worked on marketing for clients in an agency, and I wanted to see how AI tools can make that work faster and better.
+
+**What I learned.** The course covered industry relevant concepts, tools and practical skills for marketing with AI.
+
+### HubSpot Revenue Operations Certified
+
+A certification from HubSpot Academy, valid from April 2026 to May 2027.
+
+**Why I took it.** My agency work involved client communication and sales, and I wanted to understand how sales, marketing and customer teams work together using data and processes.
+
+**What I learned.** I studied the fundamental principles and best practices of revenue operations.
